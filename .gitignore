@@ -1,0 +1,10 @@
+# ignore PDF
+*.pdf
+
+# ignore rtf
+*.rtf
+# ignore DS_Store
+.DS_Store
+
+# ignore terransible folder
+terransible/*

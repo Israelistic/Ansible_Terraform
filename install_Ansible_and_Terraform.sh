@@ -1,7 +1,7 @@
  #!/usr/bin/env bash
 #Auther: Hagi Lerman
 #Date: Apr 28 2019
-#OS: Ubuntu  18.04 Bionic Veaver LTS
+#OS: Ubuntu  18.04 Bionic Beaver LTS
 #NOTE! USE WITH YOUR OWN CATUION! This script will install Ansible and Terraform for Ubuntu.
 
 # if [ $PWD !="root"]
