@@ -6,5 +6,8 @@
 # ignore DS_Store
 .DS_Store
 
-# ignore terransible folder
-terransible/*
+# ignore terransible terraform.tfvars
+terransible/terraform.tfvars
+
+#ignore cpConfig/txt
+cpConfig.txt
