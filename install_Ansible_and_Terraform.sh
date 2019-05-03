@@ -84,5 +84,5 @@ aws route53 create-reusable-delegation-set --caller-reference 1224 --profile sup
 # copy your DNS setting for ease of USE
 
 # create these files in terransible
-touch main.tr terraform.tfvars variables.tf
+touch main.tf terraform.tfvars variables.tf
 touch userdata aws_hosts wordpress.yml s3update.yml
